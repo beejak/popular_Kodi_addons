@@ -1,0 +1,6 @@
+requests==2.31.0
+feedparser==6.0.10
+python-dateutil==2.8.2
+praw==7.7.1
+PyGithub==2.1.1
+python-gitlab==4.2.0
